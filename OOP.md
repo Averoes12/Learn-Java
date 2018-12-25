@@ -1,3 +1,13 @@
+---
+layout: post
+title: Install and Create virtual machine di QEMU dengan metode CLI
+date: 2018-12-11 +0700
+description: install qemu linux virtual machine
+img: post-5.jpg # Add image post (optional)
+tags: [Blog, Linux]
+author: Averoes Blog # Add name author (optional)
+---
+
 # Apa itu Object Oriented Programming
 
 Object Oriented Programming adalah sebuah gaya penulisan dalam menulis sebuah kode program,dalam penulisan kode ada dua style penulisan yang pertama adalah procedural programmming dan yang kedua object oriented programming
