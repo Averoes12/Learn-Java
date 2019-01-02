@@ -16,3 +16,7 @@ jadi instance adalah object atau bentuk spesifik dari sebuah class.
 # Constructor
 Constructor adalah sebuah method yang digunakan untuk membuat sebuah objek,dalam pembuatan constructor nama construtor harus sama dengan nama class nya.
 Constructor juga adalah method yang pertama kali dijalankan dalam sebuah class
+
+# Abstrac Class 
+
+Class yang tidak punya method body,di gunakan agar user tidak tahu proses dari suatu program yang di buat.

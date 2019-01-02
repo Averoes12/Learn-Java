@@ -84,3 +84,7 @@ contoh
 Fungsi diatas menggunakan parameter
 Parameter adalah sebuah variable yang menampung nilai untuk diproses dalam sebuah fungsi, parameter berperan sebagai fungsi.
 
+# Methode Overloading
+
+Kita bisa membuat method dengan nama yang sama dalam satu kelas akan tetapi parameternya harus berbeda, konsep ini disebut dengan methode overloading.
+
